@@ -10,7 +10,8 @@
 <br>🔸 BackEnd - Python Flask Framework
 <br>🔸 DBMS - MySQL
 <br>🔸 OS - Debian based linux distro, Windows
-<p>
+<br>🔸 To know more about my Tech Stack click <a href='https://nayanm.me/'>here</a>.
+</p>
 
 ## ℹ️ &nbsp;Github Info
 <details>
