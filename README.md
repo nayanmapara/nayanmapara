@@ -20,8 +20,8 @@
 </details>
 <details>
    <summary><b>⚡ Github Stats</b></summary>
-  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayanm9&hide_border=true&count_private=true&show_icons=true&theme=radical&title_color=00ffbd" alt="nayanm9" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanm9&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&title_color=00ffbd" alt="nayanm9" align = "center"/></p>
+  <p align="center"><img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=nayanm9&hide_border=true&count_private=true&show_icons=true&theme=radical&title_color=00ffbd" alt="nayanm9" align = "center"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanm9&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&title_color=00ffbd" alt="nayanm9" align = "center"/></p>
 </details>
 <details>
   <summary><b>🔥 Github Streaks</b></summary>
