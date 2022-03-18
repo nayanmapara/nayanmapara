@@ -10,10 +10,10 @@
 <br>🔸 BackEnd - Python Flask Framework
 <br>🔸 DBMS - MySQL
 <br>🔸 OS - Debian based linux distro, Windows
-<br>🔸 To know more about my Tech Stack click <a href='https://nayanm.me/'>here</a>.
+<br>🔸 To know more about my Tech Stack click <a href='https://nayanm.me/#:~:text=My%20Tech%20Stack'>here</a>.
 </p>
 
-## ℹ️ &nbsp;Github Info
+## ℹ️ Github Info
 <details>
   <summary><b>🔎 Github Profile Details</b></summary>
   <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayanm9&theme=github_dark" alt="nayanm9" align = "center"/></p>
@@ -31,4 +31,14 @@
   <summary><b>📊 Github Contribution Graph</b></summary>
   <p align="center"<a href="#"><img alt="Nayan M's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayanm9&bg_color=0D1117&color=00c2ff&line=00ffbd&point=b2ffeb&hide_border=true&" /></a></p>
 </details>
-<br>
+
+## :raised_hands: Connect With Me
+<a href="https://twitter.com/nayanm_9">
+  <img align="left" width="26px" src="https://user-images.githubusercontent.com/96513736/158937420-13cd78ca-b3dc-4468-bbfc-517ae35fc749.png" />
+</a>
+<a href="https://www.instagram.com/nayanm_9">
+  <img align="left" width="26px" src="https://user-images.githubusercontent.com/96513736/158937160-a918c437-6e29-4ad1-82f6-a836cfd7429c.png" />
+</a>
+<a href="mailto:contact@nayanm.me">
+  <img align="left" width="26px" src="https://user-images.githubusercontent.com/96513736/158937308-6786e965-4f30-473f-8de5-062368a5301c.png" />
+</a>
