@@ -33,10 +33,10 @@
 </details>
 
 ## :raised_hands: Connect With Me
-<a href="https://twitter.com/nayanm_9">
+<a href="https://twitter.com/nayanm9_">
   <img align="left" width="26px" src="https://user-images.githubusercontent.com/96513736/158937420-13cd78ca-b3dc-4468-bbfc-517ae35fc749.png" />
 </a>
-<a href="https://www.instagram.com/nayanm_9">
+<a href="https://www.instagram.com/nayanm9_">
   <img align="left" width="26px" src="https://user-images.githubusercontent.com/96513736/158937160-a918c437-6e29-4ad1-82f6-a836cfd7429c.png" />
 </a>
 <a href="mailto:contact@nayanm.me">
