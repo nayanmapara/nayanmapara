@@ -16,7 +16,7 @@
 ## ℹ️ Github Info
 <details>
   <summary><b>🔎 Github Profile Details</b></summary>
-  <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayanm9&theme=github_dark" alt="nayanmapara" align = "center"/></p>
+  <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayanmapara&theme=github_dark" alt="nayanmapara" align = "center"/></p>
 </details>
 <details>
    <summary><b>⚡ Github Stats</b></summary>
