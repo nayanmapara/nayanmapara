@@ -31,7 +31,7 @@
 </details>
 <details>
   <summary><b>🔥 Github Streaks</b></summary>
-  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanmapara&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b284&fire=00ffbd&currStreakLabel=00ffbd" alt="nayanmapara" /></p>
+  <p align="center"><img height="180em" src="https://streak-stats.demolab.com?user=nayanmapara&theme=github-dark&border_radius=5.5" alt="nayanmapara" /></p>
 </details>
 
 <details>
