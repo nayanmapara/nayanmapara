@@ -26,8 +26,8 @@
 </details>
 <details>
    <summary><b>⚡ Github Stats</b></summary>
-  <p align="center"><img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=nayanmapara&hide_border=true&count_private=true&show_icons=true&theme=radical&title_color=00ffbd" alt="nayanmapara" align = "center"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanmapara&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&title_color=00ffbd" alt="nayanmapara" align = "center"/></p>
+  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayanmapara&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="nayanmapara" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanmapara&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="nayanmapara" align = "center"/></p>
 </details>
 <details>
   <summary><b>🔥 Github Streaks</b></summary>
@@ -36,7 +36,7 @@
 
 <details>
   <summary><b>📊 Github Contribution Graph</b></summary>
-  <p align="center"><img height="180em" alt="Nayan M's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nayanmapara&bg_color=0b1213&color=3e88fe&line=80eaff&point=2450ff&area=true&hide_border=true" /></p>
+  <p align="center"><img height="180em" alt="Nayan M's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanmapara&theme=dark&hide_border=false" /></p>
 </details>
 
 <br><hr>
