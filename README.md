@@ -36,7 +36,7 @@
 
 <details>
   <summary><b>📊 Github Contribution Graph</b></summary>
-  <p align="center"><img height="180em" alt="Nayan M's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanmapara&theme=dark&hide_border=false" /></p>
+  <p align="center"><img height="180em" alt="Nayan M's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nayanmapara&bg_color=0b1213&color=3e88fe&line=80eaff&point=2450ff&area=true&hide_border=true" /></p>
 </details>
 
 <br><hr>
