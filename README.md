@@ -8,34 +8,89 @@
 
 ### 👋 Who Am I?
 
-🎓 CS (Major in Cloud Computing) student at Sheridan — but let’s be real, I learn more from shipping than lectures  
-🔬 Research Assistant — turning IoT streams + ML models into live dashboards  
-💻 Full-stack dev who loves Spring Boot, React, and writing CLI tools nobody asked for  
-🏆 Hackathon winner — Hack the North, DeerHacks, etc. I build fast and break less (now)  
-☁️ Cloud-certified and slightly addicted to serverless workflows
+- 🎓 CS (Major in Cloud Computing) student at Sheridan — but let’s be real, I learn more from shipping than lectures  
+- 🔬 Research Assistant — turning IoT streams + ML models into live dashboards  
+- 💻 Full-stack dev who loves Spring Boot, React, and writing CLI tools nobody asked for  
+- 🏆 Hackathon winner — Hack the North, DeerHacks, etc. I build fast and break less (now)  
+- ☁️ Cloud-certified and slightly addicted to serverless workflows
 
 ---
 
 ### 💡 What I Actually Do
-
-- Turn ideas into working apps — even if they start at 2AM  
-- Architect backends that can handle more than just “it runs on my machine”  
-- Make AI useful, not just buzzword-y — anomaly detection, OCR, and more  
-- Keep things lean, ship fast, and learn from the bugs  
-- Live in dark mode, prefer tabs over spaces, and drink way too much coffee ☕
+<div align="center">
+<table>
+<tr>
+<td align="center">🛠️</td>
+<td><b>Build at 2AM</b><br>Turn ideas into working apps — even if they start at 2AM.</td>
+</tr>
+<tr>
+<td align="center">🧱</td>
+<td><b>Architect Backends</b><br>Design systems that can handle more than just “it runs on my machine.”</td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><b>Use AI When It Helps</b><br>Make machine learning practical — anomaly detection, OCR, and more.</td>
+</tr>
+<tr>
+<td align="center">⚡</td>
+<td><b>Ship Fast, Learn Faster</b><br>Keep things lean, iterate quickly, and walk away knowing a little more each time.</td>
+</tr>
+<tr>
+<td align="center">☕</td>
+<td><b>Dark Mode & Caffeine</b><br>Live in dark mode, prefer tabs over spaces, and drink way too much coffee ☕</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
+<br/>
+<div align="center">
 
-- **Languages:** Python, Java, JavaScript, TypeScript, C, C++, C#, HTML/CSS, Bash
-- **Frontend:** React, Angular, Three.js
-- **Backend:** Spring Boot, Flask, Django, Node.js
-- **DevOps:** Docker, GitHub Actions, Jenkins, Terraform
-- **Cloud & Infra:** AWS (EC2, Lambda, SageMaker), Azure, GCP
-- **Databases:** MySQL, MongoDB, Firebase
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 
-_(Every new tool is a new adventure. Some end in glory, others in 3AM debugging.)_
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
+
+<!-- Cloud & Infra -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+
+</div>
+<br/>
+<p align="center"><i>Every new tool is a new adventure. Some end in glory, others in 3AM debugging.</i></p>
+
 
 ---
 
@@ -66,10 +121,11 @@ _(Every new tool is a new adventure. Some end in glory, others in 3AM debugging.
 
 ### 🔗 Let’s Connect
 
-- 📧 [hello@nayanm.me](mailto:hello@nayanm.me)
-- 🌐 [nayanm.me](https://nayanm.me)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nayanmapara/)
-- 🐙 [GitHub](https://github.com/nayanmapara)
+<div align="center">
+
+📧 [hello@nayanm.me](mailto:hello@nayanm.me) | 🌐 [nayanm.me](https://nayanm.me) | 💼 [LinkedIn](https://www.linkedin.com/in/nayanmapara/) | 🐙 [GitHub](https://github.com/nayanmapara)
+
+</div>
 
 ---
 
