@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td align="center">🤖</td>
-<td><b>Use AI When It Helps</b><br>Make machine learning practical — anomaly detection, OCR, and more.</td>
+<td><b>Use AI When It Helps</b><br>Make AI useful, not just buzzword-y — anomaly detection, OCR, and more</td>
 </tr>
 <tr>
 <td align="center">⚡</td>
