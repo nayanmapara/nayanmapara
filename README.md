@@ -113,7 +113,7 @@
 <details>
   <summary>🔥 Streak Stats</summary>
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=nayanmapara&theme=dark&hide_border=false" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=nayanmapara&theme=dark" alt="GitHub Streak"/>
   </div>
 </details>
 
