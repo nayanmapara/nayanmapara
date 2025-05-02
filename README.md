@@ -129,4 +129,4 @@
 
 ---
 
-I don’t always get it right the first time — but I never stop until it’s working. Let’s build something worth debugging. 🛠️
+I don’t always get it right the first time, but I never stop until it’s working. Let’s build something worth debugging. 🛠️
