@@ -1,5 +1,7 @@
 <div align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=450&lines=%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+Greetings%2C+Fellow+Wanderer!+%F0%9F%9A%80;I'm+Nayan+Mapara!+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;A+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+%7C+Tech+Enthusiast+%F0%9F%92%BB;I+welcome+you+to+my+profile!+%E2%8F%B3;Don't+remain+idle%2C+venture+forth!+%F0%9F%97%BA%EF%B8%8F)
+
 </div>
 
 ---
