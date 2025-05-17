@@ -12,7 +12,7 @@
 - 🔬 Research Assistant — turning IoT streams + ML models into live dashboards  
 - 💻 Full-stack dev who loves Spring Boot, React, and writing CLI tools nobody asked for  
 - 🏆 Hackathon winner — Hack the North, DeerHacks, etc. I build fast and break less (now)  
-- ☁️ Cloud-certified and slightly addicted to serverless workflows
+- ☁️ Google Cloud-certified and slightly addicted to serverless workflows
 
 ---
 
