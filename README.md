@@ -123,7 +123,7 @@
 
 <div align="center">
 
-📧 [hello@nayanm.me](mailto:hello@nayanm.me) | 🌐 [nayanm.me](https://nayanm.me) | 💼 [LinkedIn](https://www.linkedin.com/in/nayanmapara/) | 🐙 [GitHub](https://github.com/nayanmapara)
+📧 [hello@nayanm.me](mailto:hello@nayanm.me) | 🌐 [Portfolio](https://nayanm.me) | 💼 [LinkedIn](https://www.linkedin.com/in/nayanmapara/) | 🐙 [GitHub](https://github.com/nayanmapara)
 
 </div>
 
